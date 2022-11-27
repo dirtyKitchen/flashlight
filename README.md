@@ -3,7 +3,7 @@ Flashlight is a basic HTML and CSS Project where text gets revealed on  Hover Ef
 
 ## How to Start?
 
-npm i
+npm i && npm start
 
 
 ## Technologies Used
@@ -15,8 +15,3 @@ npm i
 
 I have used one of the template from Bootstrap for this project. You can have a look at the template at [Bootstrap Template (https://getbootstrap.com/docs/5.2/examples/cover/ "Bootstrap Template")
 
-
-
-```
-
-```
